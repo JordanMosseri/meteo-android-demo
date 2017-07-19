@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="main_city_size">20sp</dimen>
+    <dimen name="main_temperature_size">50sp</dimen>
+</resources>
